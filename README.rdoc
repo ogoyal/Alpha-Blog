@@ -1,1 +1,3 @@
 This is the repository for the first alpha-blog app of the Complete Ruby on Rails Developer
+
+Application can be viewed here: http://ogprod.herokuapp.com/
